@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+adas_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models
+*.pt
+*.onnx
+*.engine
+
+# CARLA cache
+CarlaUE4/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+runs/
+output/
+
+# Windows
+Thumbs.db

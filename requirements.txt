@@ -1,0 +1,10 @@
+numpy
+opencv-python
+matplotlib
+pandas
+pygame
+jupyter
+streamlit
+torch
+torchvision
+ultralytics
