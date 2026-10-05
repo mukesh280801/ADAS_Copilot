@@ -1,10 +1,11 @@
+carla
 numpy
 opencv-python
-matplotlib
-pandas
-pygame
-jupyter
-streamlit
 torch
 torchvision
 ultralytics
+pandas
+pyttsx3
+streamlit
+matplotlib
+pygame
