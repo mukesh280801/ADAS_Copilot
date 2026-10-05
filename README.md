@@ -76,6 +76,30 @@ The system combines computer vision, object tracking, physical vehicle-state inf
                     LIVE DASHBOARD
 
 
+## 📸 Demo & Results
+
+The following screenshots were captured from real-time ADAS Copilot runs in the CARLA simulator.
+
+### 🚗 Overall ADAS Dashboard
+
+![Overall ADAS Dashboard](screenshots/01_overall_adas_dashboard.jpg)
+
+### 🔄 Overtaking & Lane Perception
+
+![Overtaking and Lane Perception](screenshots/02_overtaking_and_lane_perception.jpg)
+
+### 🎯 YOLOv8, ByteTrack & ACC
+
+![YOLOv8 ByteTrack ACC](screenshots/03_yolov8_bytetrack_acc.jpg)
+
+### 🚦 Traffic-Light Handling
+
+![Traffic Light Handling](screenshots/04_traffic_light_red_light.jpg)
+
+### 🛣️ Lane Perception & Safety Monitoring
+
+![Lane Perception and Safety](screenshots/05_lane_perception_and_safety.jpg)
+
 
 📌 Project Objective
 To develop a real-time, software-based ADAS Copilot capable of understanding the driving environment and assisting the ego vehicle with safer driving decisions using AI and computer vision.
